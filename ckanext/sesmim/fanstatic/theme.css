@@ -1,0 +1,11 @@
+.footer-social{
+    color: white;
+    font-size: 1.4em;
+  }
+  .footer-social i.circle{
+    border: 1px solid;
+    width: 34px;
+    border-radius:17px; /* half of width + borders */ 
+    line-height: 34px; /* vertical center */
+    text-align: center; /* horizontal center */
+  }
