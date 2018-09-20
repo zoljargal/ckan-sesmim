@@ -1,0 +1,54 @@
+<footer class="site-footer">
+    <div class="container">
+      <div>&nbsp;</div>
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="row">
+              <div class="col-md-6"><img src="/LOGO1.png"/></div>
+              <div class="col-md-6"><img src="/LOGO2.png"/></div>
+          </div>
+        </div>
+        <div class="col-md-6 attribution">
+          
+            <p><strong style="text-transform: uppercase">{{ _('Contact us') }}</strong></p><br/>
+
+            <div class="row">
+                <div class="col-md-12">
+                <i class="fa fa-map-marker" style="font-size: 1.4em; float: left;"></i>
+                <div style="margin-left: 30px">
+                     ХАЯГ: ШУА-ИЙН ГАЗАРЗҮЙ-ГЕОЭКОЛОГИЙН ХҮРЭЭЛЭН, БАРУУН СЭЛБИЙН 15, 4-Р ХОРОО,
+                ЧИНГЭЛТЭЙ ДҮҮРЭГ, УЛААНБААТАР-15170, МОНГОЛ УЛС</div>
+        </div></div><br/>
+            <div><span><i class="fa fa-phone" style="margin-right: 10px;"></i> Утас: +976-11-325487 &nbsp;&nbsp;&nbsp;<i class="fa fa-envelope-o"></i> Цахим шуудангийн хаяг: igg@mas.as.mn</span></div>
+        
+        </div>
+      </div>
+      <hr/>
+      <div class="row">
+          
+          <div class="col-md-8">
+              <img src="/LOGO3.png"/>
+          </div>
+          <div class="col-md-4">
+
+              <div style="float: right;">
+                  <div class="footer-social">
+                  <i class="fa fa-facebook circle"></i>
+                  <i class="fa fa-twitter circle"></i>
+                  <i class="fa fa-google-plus circle"></i>
+                  <i class="fa fa-youtube-play circle"></i>
+                </div>
+                  <br/>
+              <div style="float: right;">Copyright © 2018 </div>
+            </div>
+            </div>
+      </div>
+      <div>&nbsp;</div>
+    </div>
+  
+    {% block footer_debug %}
+      {% if g.debug %}
+        {% include 'snippets/debug.html' %}
+      {% endif %}
+    {% endblock %}
+  </footer>
