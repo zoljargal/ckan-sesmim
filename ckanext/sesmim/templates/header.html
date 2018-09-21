@@ -12,9 +12,11 @@
 {{ super() }}
 {% endblock %}
 
-{# block header_site_navigation_tabs %}
+{# block header_site_navigation %}
     <li >{% link_for _('Home'), named_route='home.index' %}</li>
     <li >{% link_for _('Data'), named_route='search' %}</li>
+    <li >{% link_for _('Бүрэлдэхүүн хэсэг'), named_route='/organization' %}</li>
+    <li >{% link_for _('Хэлтэсүүд'), named_route='/group' %}</li>
     <li >{% link_for _('About'), named_route='home.about' %}</li>
     <li class="finish"></li> 
 {% endblock #}
