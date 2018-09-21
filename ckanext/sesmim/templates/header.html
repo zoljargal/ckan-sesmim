@@ -1,4 +1,17 @@
 {% ckan_extends %}
+
+{% block header_account_logged %}
+<li><a href="/">MN</a></li>
+<li><a href="/en">EN</a></li>
+{{ super() }}
+{% endblock %}
+
+{% block header_account_notlogged %}
+<li><a href="/">MN</a></li>
+<li><a href="/en">EN</a></li>
+{{ super() }}
+{% endblock %}
+
 {# block header_site_navigation_tabs %}
 <li >{% link_for _('Home'), named_route='home.index' %}</li>
                 <li >{% link_for _('Data'), named_route='search' %}</li>

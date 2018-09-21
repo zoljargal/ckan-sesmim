@@ -9,3 +9,11 @@
     line-height: 34px; /* vertical center */
     text-align: center; /* horizontal center */
   }
+
+  @media (min-width: 768px){
+    .hero {
+        background: url(/sesmimbg.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+  }
