@@ -26,7 +26,7 @@ msgstr "Холбоо барих"
 
 
 #: ckanext/theme/templates/header.html:16
-msgid "Components"
+msgid "Thematic Areas"
 msgstr "хэлтэсүүд"
 
 #: ckanext/theme/templates/page.html:34
