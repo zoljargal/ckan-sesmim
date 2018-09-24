@@ -104,8 +104,8 @@ msgid "Web site"
 msgstr "Веб хуудас"
 
 
-msgid "ORIENT PLAZA 208, CHAGDARJAVIIN GUDAMJ, ULAANBAATAR, MONGOLIA"
-msgstr "МОНГОЛ УЛС, УЛААНБААТАР, ЧАГДАРЖАВЫН ГУДАМЖ-9 ORIENT PLAZA 208 ТООТ"
+msgid "Orient Plaza 208, Chagdarjaviin Gudamj, Ulaanbaatar, Mongolia"
+msgstr "Монгол Улс, Улаанбаатар, Чагдаржавын гудамж-9, Orient Plaza 208 тоот"
 
 msgid "This group has no description"
 msgstr "Энэ сэдэв тодорхойлолтгүй байна"
