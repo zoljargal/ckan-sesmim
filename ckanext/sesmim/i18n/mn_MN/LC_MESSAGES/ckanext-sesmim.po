@@ -1,0 +1,170 @@
+# Mongolian (Mongolia) translations for ckanext-theme.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the ckanext-theme
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ckanext-theme 0.0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-09-23 08:11-0400\n"
+"PO-Revision-Date: 2018-09-23 08:12-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mn_MN\n"
+"Language-Team: mn_MN <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+
+#: ckanext/theme/templates/footer.html:13
+msgid "Contact us"
+msgstr "Холбоо барих"
+
+
+#: ckanext/theme/templates/header.html:16
+msgid "Components"
+msgstr "хэлтэсүүд"
+
+#: ckanext/theme/templates/page.html:34
+msgid "Keywords"
+msgstr "Түлхүүр үгс"
+
+#: ckanext/theme/templates/organization/read.html:5
+#: ckanext/theme/templates/page.html:59
+msgid "Organization"
+msgstr "хэлтэс"
+
+#: ckanext/theme/templates/organization/index.html:5
+msgid "Organizations"
+msgstr "хэлтэсүүд"
+
+msgid "Organization not found"
+msgstr "хэлтэс олдсонгүй"
+
+msgid "Organization was not found."
+msgstr "хэлтэс олдсонгүй."
+
+msgid "{number} organization found for \"{query}\""
+msgid_plural "{number} organizations found for \"{query}\""
+msgstr[0] "\"{query}\"-д {number} хэлтэс олдлоо"
+msgstr[1] "\"{query}\"-д {number} хэлтэс олдлоо"
+
+msgid "{number} organization found"
+msgid_plural "{number} organizations found"
+msgstr[0] "{number} хэлтэс олдлоо"
+msgstr[1] "{number} хэлтэс олдлоо"
+
+msgid "No organizations found for \"{query}\""
+msgstr "\"{query}\" -н үр дүнд хэлтэс олдсонгүй"
+
+msgid "No organizations found"
+msgstr "Ямарч хэлтэс олдсонгүй"
+
+msgid "organization"
+msgstr "хэлтэс"
+
+msgid "Organization does not exist"
+msgstr "Ийм хэлтэс байхгүй"
+
+msgid "organizations"
+msgstr "хэлтэс"
+
+msgid "This organization has no datasets associated to it"
+msgstr "Тус хэлтэс хамааралтай өгөгдлийн бүрдэл алга байна"
+
+msgid "Search organizations..."
+msgstr "хэлтэс хайх..."
+
+msgid "There are currently no organizations for this site"
+msgstr "Одоогоор тус сайтад ямар ч хэлтэс байхгүй байна."
+
+msgid "What are Organizations?"
+msgstr "хэлтэс гэж юу вэ?"
+
+msgid "My Organization"
+msgstr "Миний хэлтэс"
+
+msgid "Knowledge portal"
+msgstr "Мэдлэгийн Портал"
+
+msgid "Address"
+msgstr "Хаяг"
+
+msgid "Phone"
+msgstr "Утас"
+
+msgid "E-mail address"
+msgstr "Цахим шуудан"
+
+msgid "Web site"
+msgstr "Веб хуудас"
+
+
+msgid "Project MERIT, 3rd floor, National Times Tower, Khudaldaanii gudamj, 1-r khoroo, Chingeltei duureg, Ulaanbaatar-15160, Mongolia"
+msgstr "MERIT төсөл, Монгол улс, Улаанбаатар-15160, Чингэлтэй дүүрэг, 1-р хороо, Худалдааны гудамж, Нэйшнл Таймс Ньюс Тауэр, 3-р давхар"
+
+msgid "This group has no description"
+msgstr "Энэ сэдэв тодорхойлолтгүй байна"
+
+msgid "Group"
+msgstr "Сэдэв"
+
+msgid "No groups"
+msgstr "Сэдэв байхгүй"
+
+msgid "Group not found"
+msgstr "Сэдэв олдсонгүй"
+
+msgid "Groups"
+msgstr "Сэдвүүд"
+
+msgid "Recent changes to CKAN Group:"
+msgstr "CKAN сэдэвт шинээр нэмэгдсэн өөрчлөлтүүд:"
+
+msgid "group"
+msgstr "Сэдэв"
+
+msgid "Group was not found."
+msgstr "Сэдэв олдсонгүй"
+
+msgid "Add a Group"
+msgstr "Сэдэв нэмэх"
+
+msgid "Add Group"
+msgstr "Сэдэв нэмэх"
+
+msgid "Search groups..."
+msgstr "Сэдвүүд хайх..."
+
+msgid "There are currently no groups for this site"
+msgstr "Энэ сайтад одоогоор ямарч сэдэв байхгүй байна"
+
+msgid "Datasets in group: {group}"
+msgstr "{group}-н өгөгдлийн сэдэв"
+
+msgid "My Group"
+msgstr "Миний сэдэв"
+
+msgid "Datasets in organization: {group}"
+msgstr " {group} сэдвийн өгөгдлийн бүрдлүүд"
+
+msgid "No groups found for "{query}""
+msgstr ""{query}" холбогдолтой сэдэв олдсонгүй"
+
+msgid "No groups found"
+msgstr "Сэдэв олдсонгүй"
+
+
+msgid "{number} group found for \"{query}\""
+msgid_plural "{number} groups found for \"{query}\""
+msgstr[0] "\"{query}\"-д {number} сэдэв олдлоо"
+msgstr[1] "\"{query}\"-д {number} сэдэв олдлоо"
+
+msgid "{number} group found"
+msgid_plural "{number} groups found"
+msgstr[0] "{number} сэдэв олдлоо"
+msgstr[1] "{number} сэдэв олдлоо"
