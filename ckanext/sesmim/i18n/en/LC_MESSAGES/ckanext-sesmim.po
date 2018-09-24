@@ -21,17 +21,17 @@ msgstr ""
 
 
 msgid "Organization"
-msgstr "group"
+msgstr "Group"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "groups"
+msgstr "Groups"
 
 msgid "Organization not found"
-msgstr "group not found"
+msgstr "Group not found"
 
 msgid "Organization was not found."
-msgstr "group was not found."
+msgstr "Group was not found."
 
 msgid "{number} organization found for \"{query}\""
 msgid_plural "{number} organizations found for \"{query}\""
@@ -50,13 +50,13 @@ msgid "No organizations found"
 msgstr "No groups found"
 
 msgid "organization"
-msgstr "group"
+msgstr "Group"
 
 msgid "Organization does not exist"
-msgstr "group does not exist"
+msgstr "Group does not exist"
 
 msgid "organizations"
-msgstr "groups"
+msgstr "Groups"
 
 msgid "This organization has no datasets associated to it"
 msgstr "This group has no datasets associated to it"
@@ -86,19 +86,19 @@ msgid "No groups"
 msgstr "No thematic areas"
 
 msgid "Group not found"
-msgstr "thematic area not found"
+msgstr "Thematic area not found"
 
 msgid "Groups"
-msgstr "thematic areas"
+msgstr "Thematic areas"
 
 msgid "Recent changes to CKAN Group:"
 msgstr "Recent changes to CKAN thematic area:"
 
-msgid "group"
-msgstr "thematic area"
+msgid "Group"
+msgstr "Thematic area"
 
 msgid "Group was not found."
-msgstr "thematic area was not found."
+msgstr "Thematic area was not found."
 
 msgid "Add a Group"
 msgstr "Add a thematic area"

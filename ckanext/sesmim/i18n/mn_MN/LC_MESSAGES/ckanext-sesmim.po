@@ -27,7 +27,7 @@ msgstr "Холбоо барих"
 
 #: ckanext/theme/templates/header.html:16
 msgid "Thematic Areas"
-msgstr "хэлтэсүүд"
+msgstr "Хэлтэсүүд"
 
 #: ckanext/theme/templates/page.html:34
 msgid "Keywords"
@@ -36,17 +36,17 @@ msgstr "Түлхүүр үгс"
 #: ckanext/theme/templates/organization/read.html:5
 #: ckanext/theme/templates/page.html:59
 msgid "Organization"
-msgstr "хэлтэс"
+msgstr "Хэлтэс"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "хэлтэсүүд"
+msgstr "Хэлтэсүүд"
 
 msgid "Organization not found"
-msgstr "хэлтэс олдсонгүй"
+msgstr "Хэлтэс олдсонгүй"
 
 msgid "Organization was not found."
-msgstr "хэлтэс олдсонгүй."
+msgstr "Хэлтэс олдсонгүй."
 
 msgid "{number} organization found for \"{query}\""
 msgid_plural "{number} organizations found for \"{query}\""
@@ -65,25 +65,25 @@ msgid "No organizations found"
 msgstr "Ямарч хэлтэс олдсонгүй"
 
 msgid "organization"
-msgstr "хэлтэс"
+msgstr "Хэлтэс"
 
 msgid "Organization does not exist"
 msgstr "Ийм хэлтэс байхгүй"
 
 msgid "organizations"
-msgstr "хэлтэс"
+msgstr "Хэлтэс"
 
 msgid "This organization has no datasets associated to it"
 msgstr "Тус хэлтэс хамааралтай өгөгдлийн бүрдэл алга байна"
 
 msgid "Search organizations..."
-msgstr "хэлтэс хайх..."
+msgstr "Хэлтэс хайх..."
 
 msgid "There are currently no organizations for this site"
 msgstr "Одоогоор тус сайтад ямар ч хэлтэс байхгүй байна."
 
 msgid "What are Organizations?"
-msgstr "хэлтэс гэж юу вэ?"
+msgstr "Хэлтэс гэж юу вэ?"
 
 msgid "My Organization"
 msgstr "Миний хэлтэс"
