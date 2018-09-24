@@ -135,3 +135,10 @@ msgid "{number} group found"
 msgid_plural "{number} groups found"
 msgstr[0] "{number} thematic area found"
 msgstr[1] "{number} thematic areas found"
+
+
+msgid "What are Groups?"
+msgstr "What are Thematic area?"
+
+msgid "What are Organizations?"
+msgstr "What are Groups?"

@@ -168,3 +168,9 @@ msgid "{number} group found"
 msgid_plural "{number} groups found"
 msgstr[0] "{number} сэдэв олдлоо"
 msgstr[1] "{number} сэдэв олдлоо"
+
+msgid "What are Groups?"
+msgstr "Сэдэв гэж юу вэ?"
+
+msgid "What are Organizations?"
+msgstr "Хэлтэс гэж юу вэ?"
