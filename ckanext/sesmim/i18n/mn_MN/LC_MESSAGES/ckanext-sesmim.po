@@ -27,7 +27,7 @@ msgstr "Холбоо барих"
 
 #: ckanext/theme/templates/header.html:16
 msgid "Thematic Areas"
-msgstr "Хэлтэсүүд"
+msgstr "Бүлгүүд"
 
 #: ckanext/theme/templates/page.html:34
 msgid "Keywords"
@@ -36,57 +36,57 @@ msgstr "Түлхүүр үгс"
 #: ckanext/theme/templates/organization/read.html:5
 #: ckanext/theme/templates/page.html:59
 msgid "Organization"
-msgstr "Хэлтэс"
+msgstr "Бүлэг"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "Хэлтэсүүд"
+msgstr "Бүлгүүд"
 
 msgid "Organization not found"
-msgstr "Хэлтэс олдсонгүй"
+msgstr "Бүлэг олдсонгүй"
 
 msgid "Organization was not found."
-msgstr "Хэлтэс олдсонгүй."
+msgstr "Бүлэг олдсонгүй."
 
 msgid "{number} organization found for \"{query}\""
 msgid_plural "{number} organizations found for \"{query}\""
-msgstr[0] "\"{query}\"-д {number} хэлтэс олдлоо"
-msgstr[1] "\"{query}\"-д {number} хэлтэс олдлоо"
+msgstr[0] "\"{query}\"-д {number} бүлэг олдлоо"
+msgstr[1] "\"{query}\"-д {number} бүлэг олдлоо"
 
 msgid "{number} organization found"
 msgid_plural "{number} organizations found"
-msgstr[0] "{number} хэлтэс олдлоо"
-msgstr[1] "{number} хэлтэс олдлоо"
+msgstr[0] "{number} бүлэг олдлоо"
+msgstr[1] "{number} бүлэг олдлоо"
 
 msgid "No organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд хэлтэс олдсонгүй"
+msgstr "\"{query}\" -н үр дүнд бүлэг олдсонгүй"
 
 msgid "No organizations found"
-msgstr "Ямарч хэлтэс олдсонгүй"
+msgstr "Ямарч бүлэг олдсонгүй"
 
 msgid "organization"
-msgstr "Хэлтэс"
+msgstr "Бүлэг"
 
 msgid "Organization does not exist"
-msgstr "Ийм хэлтэс байхгүй"
+msgstr "Ийм бүлэг байхгүй"
 
 msgid "organizations"
-msgstr "Хэлтэс"
+msgstr "Бүлэг"
 
 msgid "This organization has no datasets associated to it"
-msgstr "Тус хэлтэс хамааралтай өгөгдлийн бүрдэл алга байна"
+msgstr "Тус бүлэг хамааралтай өгөгдлийн бүрдэл алга байна"
 
 msgid "Search organizations..."
-msgstr "Хэлтэс хайх..."
+msgstr "Бүлэг хайх..."
 
 msgid "There are currently no organizations for this site"
-msgstr "Одоогоор тус сайтад ямар ч хэлтэс байхгүй байна."
+msgstr "Одоогоор тус сайтад ямар ч бүлэг байхгүй байна."
 
 msgid "What are Organizations?"
-msgstr "Хэлтэс гэж юу вэ?"
+msgstr "Бүлэг гэж юу вэ?"
 
 msgid "My Organization"
-msgstr "Миний хэлтэс"
+msgstr "Миний бүлэг"
 
 msgid "Knowledge portal"
 msgstr "Мэдлэгийн Портал"
@@ -107,70 +107,73 @@ msgstr "Веб хуудас"
 msgid "Orient Plaza 208, Chagdarjaviin Gudamj, Ulaanbaatar, Mongolia"
 msgstr "Монгол Улс, Улаанбаатар, Чагдаржавын гудамж-9, Orient Plaza 208 тоот"
 
-msgid "This group has no description"
-msgstr "Энэ сэдэв тодорхойлолтгүй байна"
+
+
+msgid "What are Organizations?"
+msgstr "Бүлэг гэж юу вэ?"
+
 
 msgid "Group"
-msgstr "Сэдэв"
+msgstr "Бүрэлдэхүүн хэсэг"
 
 msgid "No groups"
-msgstr "Сэдэв байхгүй"
+msgstr "Бүрэлдэхүүн хэсэг байхгүй"
 
 msgid "Group not found"
-msgstr "Сэдэв олдсонгүй"
+msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
 
 msgid "Groups"
-msgstr "Сэдвүүд"
+msgstr "Бүрэлдэхүүн хэсгүүд"
 
 msgid "Recent changes to CKAN Group:"
-msgstr "CKAN сэдэвт шинээр нэмэгдсэн өөрчлөлтүүд:"
+msgstr "CKAN бүрэлдэхүүн хэсэгт шинээр нэмэгдсэн өөрчлөлтүүд:"
 
 msgid "group"
-msgstr "Сэдэв"
+msgstr "Бүрэлдэхүүн хэсэг"
 
 msgid "Group was not found."
-msgstr "Сэдэв олдсонгүй"
+msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
 
 msgid "Add a Group"
-msgstr "Сэдэв нэмэх"
+msgstr "Бүрэлдэхүүн хэсэг нэмэх"
 
 msgid "Add Group"
-msgstr "Сэдэв нэмэх"
+msgstr "Бүрэлдэхүүн хэсэг нэмэх"
 
 msgid "Search groups..."
-msgstr "Сэдвүүд хайх..."
+msgstr "Бүрэлдэхүүн хэсгүүд хайх..."
 
 msgid "There are currently no groups for this site"
-msgstr "Энэ сайтад одоогоор ямарч сэдэв байхгүй байна"
+msgstr "Энэ сайтад одоогоор ямарч бүрэлдэхүүн хэсэг байхгүй байна"
 
 msgid "Datasets in group: {group}"
-msgstr "{group}-н өгөгдлийн сэдэв"
+msgstr "{group}-н өгөгдлийн бүрэлдэхүүн хэсэг"
 
 msgid "My Group"
-msgstr "Миний сэдэв"
+msgstr "Миний бүрэлдэхүүн хэсэг"
 
 msgid "Datasets in organization: {group}"
 msgstr " {group} сэдвийн өгөгдлийн бүрдлүүд"
 
-msgid "No groups found for "{query}""
-msgstr ""{query}" холбогдолтой сэдэв олдсонгүй"
+msgid "No groups found for \"{query}\""
+msgstr "\"{query}\" холбогдолтой бүрэлдэхүүн хэсэг олдсонгүй"
 
 msgid "No groups found"
-msgstr "Сэдэв олдсонгүй"
+msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
 
 
 msgid "{number} group found for \"{query}\""
 msgid_plural "{number} groups found for \"{query}\""
-msgstr[0] "\"{query}\"-д {number} сэдэв олдлоо"
-msgstr[1] "\"{query}\"-д {number} сэдэв олдлоо"
+msgstr[0] "\"{query}\"-д {number} бүрэлдэхүүн хэсэг олдлоо"
+msgstr[1] "\"{query}\"-д {number} бүрэлдэхүүн хэсэг олдлоо"
 
 msgid "{number} group found"
 msgid_plural "{number} groups found"
-msgstr[0] "{number} сэдэв олдлоо"
-msgstr[1] "{number} сэдэв олдлоо"
+msgstr[0] "{number} бүрэлдэхүүн хэсэг олдлоо"
+msgstr[1] "{number} бүрэлдэхүүн хэсэг олдлоо"
 
 msgid "What are Groups?"
-msgstr "Сэдэв гэж юу вэ?"
+msgstr "Бүрэлдэхүүн хэсэг гэж юу вэ?"
 
-msgid "What are Organizations?"
-msgstr "Хэлтэс гэж юу вэ?"
+msgid "This group has no description"
+msgstr "Энэ бүрэлдэхүүн хэсэг тодорхойлолтгүй байна"

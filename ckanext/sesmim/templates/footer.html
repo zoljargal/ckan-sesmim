@@ -4,8 +4,24 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="row">
-              <div class="col-md-6"><a href="http://portal.merit.mn/" target="_blank"><img src="/LOGO1.png"/></a></div>
-              <div class="col-md-6"><a href="http://portal.igg.ac.mn/" target="_blank"><img src="/LOGO4.png"/></a></div>
+              <div class="col-md-6">
+                  <a href="http://portal.merit.mn/" target="_blank">
+                    {% if h.lang()=='mn_MN' %}
+                    <img src="/merit-footer-logo-en.png"/>
+                    {% else %}
+                    <img src="/merit-footer-logo-en.png"/>
+                    {% endif %}
+                  </a>
+                </div>
+                <div class="col-md-6">
+                    <a href="http://portal.igg.ac.mn/" target="_blank">
+                      {% if h.lang()=='mn_MN' %}
+                      <img src="/igg-footer-logo-mn.png"/>
+                      {% else %}
+                      <img src="/igg-footer-logo-en.png"/>
+                      {% endif %}
+                    </a>
+                </div>
           </div>
         </div>
         <div class="col-md-6 attribution">
@@ -22,7 +38,7 @@
             <div>
                 <span><i class="fa fa-phone" style="margin-right: 10px;"></i> {{ _('Phone') }}: (976)-7010 1080 &nbsp;&nbsp;&nbsp;<i class="fa fa-envelope-o"></i> 
                     {{ _('E-mail address') }}: info@sesmim.mn</span><br/>
-                <span><i class="fa fa-globe" style="margin-right: 10px;"></i> {{ _('Web site') }}: https://sesmim.mn</span>
+                <span><i class="fa fa-globe" style="margin-right: 10px;"></i> {{ _('Web site') }}: <a href="https://sesmim.mn">https://sesmim.mn</a></span>
             </div>
         
         </div>
@@ -31,16 +47,16 @@
       <div class="row">
           
           <div class="col-md-6">
-            <a href="https://www.international.gc.ca/" target="_blank"><img src="/LOGO3.png" style="width: 100%"/></a>
+            <a href="https://www.international.gc.ca/" target="_blank"><img src="/gac-logo.png" style="width: 100%"/></a>
           </div>
           <div class="col-md-6">
 
               <div style="float: right;">
                   <div class="footer-social">
-                  <i class="fa fa-facebook circle"></i>
-                  <i class="fa fa-twitter circle"></i>
-                  <i class="fa fa-google-plus circle"></i>
-                  <i class="fa fa-youtube-play circle"></i>
+                  <a href="https://www.facebook.com/SESMIM-Project-502593469934243/" target="_blank"><i class="fa fa-facebook circle"></i></a>
+                  <a href="https://twitter.com/search?q=SESMIM" target="_blank"><i class="fa fa-twitter circle"></i></a>
+                  <a href="#"><i class="fa fa-google-plus circle"></i></a>
+                  <a href="https://www.youtube.com/channel/UCsu-_gZ53_6TEHcIewGbDYA" target="_blank"><i class="fa fa-youtube-play circle"></i></a>
                 </div>
                   <br/>
               <div style="float: right;">Copyright © 2018 SESMIM</div>

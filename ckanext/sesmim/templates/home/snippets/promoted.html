@@ -1,0 +1,29 @@
+<div class="module-content box">
+  <header>
+      {% if h.lang()=='mn_MN' %}
+      <h2 class="page-heading">СЕСМИМ мэдлэгийн порталд тавтай морил</h2>
+      <p>
+          Монгол Улсын олборлох салбарын менежментийг бэхжүүлэх “СЕСМИМ” төслийн Мэдээллийн порталд тавтай морилно уу! СЕСМИМ төсөл нь Канадын Гадаад хэргийн яамны яамны санхүүжилтээр хэрэгжиж байгаа төсөл бөгөөд стратеги орлогын менежмент, тусгай зөвшөөрөл, уурхайн хаалт, байгаль орчны менежмент, кадастр, жендэрийн чиглэлийн сургалт, семинар зэрэгт зориулан боловсруулсан сургалтын материал, гарын авлага, илтгэлүүд нь таны албан болон ажлын хэрэгцээнд зориулан нийтэд хүртээлтэй боллоо.
+      </p>
+      {% else %}
+      <h2 class="page-heading">Welcome to SESMIM knowledge portal</h2>
+      <p>
+          Welcome to the Strengthening Extractive Sector Management in Mongolia (SESMIM) Project’s Knowledge Portal! SESMIM is funded by the Global Affairs Canada, and implements activities in the fields of strategic revenue management, mine licensing, mine closure, environmental management, cadastre and gender. Materials, hand-outs, manuals and presentations developed for trainings and seminars organized by the project are now publicly available through this portal.
+      </p>
+      <p>
+            This MERIT Knowledge Portal publishes all training and consulting documents, which are prepared by the long term and short term advisors during the project implementation stage in Mongolia
+      </p>
+    {% endif %}
+  </header>
+
+  {% block home_image %}
+    <section class="featured media-overlay hidden-xs">
+      <h2 class="media-heading">{% block home_image_caption %}{{ _("This is a featured section") }}{% endblock %}</h2>
+      {% block home_image_content %}
+        <a class="media-image" href="#">
+                <img src="/sesmim-promoted-image.jpg" alt="Featured image" width="420" height="220" />
+        </a>
+      {% endblock %}
+    </section>
+  {% endblock %}
+</div>

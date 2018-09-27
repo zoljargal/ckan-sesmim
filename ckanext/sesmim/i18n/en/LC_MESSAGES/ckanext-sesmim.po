@@ -76,69 +76,71 @@ msgstr "My group"
 msgid "Add Organization"
 msgstr "Add group"
 
+
+
+
+
 msgid "This group has no description"
-msgstr "This thematic area has no description"
+msgstr "This component has no description"
 
 msgid "Group"
-msgstr "Thematic area"
+msgstr "Component"
 
 msgid "No groups"
-msgstr "No thematic areas"
+msgstr "No components"
 
 msgid "Group not found"
-msgstr "Thematic area not found"
+msgstr "Component not found"
 
 msgid "Groups"
-msgstr "Thematic areas"
+msgstr "Components"
 
 msgid "Recent changes to CKAN Group:"
-msgstr "Recent changes to CKAN thematic area:"
+msgstr "Recent changes to CKAN component:"
 
 msgid "Group"
-msgstr "Thematic area"
+msgstr "Component"
 
 msgid "Group was not found."
-msgstr "Thematic area was not found."
+msgstr "Component was not found."
 
 msgid "Add a Group"
-msgstr "Add a thematic area"
+msgstr "Add a component"
 
 msgid "Add Group"
-msgstr "Add thematic area"
+msgstr "Add component"
 
 msgid "Search groups..."
-msgstr "Search thematic areas..."
+msgstr "Search components..."
 
 msgid "There are currently no groups for this site"
-msgstr "There are currently no thematic areas for this site"
+msgstr "There are currently no components for this site"
 
 msgid "Datasets in group: {group}"
-msgstr "Datasets in thematic area: {group}"
+msgstr "Datasets in component: {group}"
 
 msgid "My Group"
-msgstr "My thematic area"
+msgstr "My component"
 
 
-msgid "No groups found for "{query}""
-msgstr "No thematic areas found for "{query}""
+msgid "No groups found for \"{query}\""
+msgstr "No components found for \"{query}\""
 
 msgid "No groups found"
-msgstr "No thematic areas found"
+msgstr "No components found"
 
 
 msgid "{number} group found for \"{query}\""
-msgid_plural "{number} thematic areas found for \"{query}\""
-msgstr[0] "{number} thematic area found for \"{query}\""
-msgstr[1] "{number} thematic areas found for \"{query}\""
+msgid_plural "{number} components found for \"{query}\""
+msgstr[0] "{number} component found for \"{query}\""
+msgstr[1] "{number} components found for \"{query}\""
 
 msgid "{number} group found"
 msgid_plural "{number} groups found"
-msgstr[0] "{number} thematic area found"
-msgstr[1] "{number} thematic areas found"
+msgstr[0] "{number} component found"
+msgstr[1] "{number} components found"
 
 
 msgid "What are Groups?"
-msgstr "What are Thematic area?"
+msgstr "What are components?"
 
-msgid "What are Organizations?"
-msgstr "What are Groups?"
