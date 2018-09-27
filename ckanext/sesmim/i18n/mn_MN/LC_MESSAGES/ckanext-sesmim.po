@@ -36,57 +36,10 @@ msgstr "Түлхүүр үгс"
 #: ckanext/theme/templates/organization/read.html:5
 #: ckanext/theme/templates/page.html:59
 msgid "Organization"
-msgstr "Бүлэг"
+msgstr "Бүрэлдэхүүн хэсэг"
 
 #: ckanext/theme/templates/organization/index.html:5
-msgid "Organizations"
-msgstr "Бүлгүүд"
 
-msgid "Organization not found"
-msgstr "Бүлэг олдсонгүй"
-
-msgid "Organization was not found."
-msgstr "Бүлэг олдсонгүй."
-
-msgid "{number} organization found for \"{query}\""
-msgid_plural "{number} organizations found for \"{query}\""
-msgstr[0] "\"{query}\"-д {number} бүлэг олдлоо"
-msgstr[1] "\"{query}\"-д {number} бүлэг олдлоо"
-
-msgid "{number} organization found"
-msgid_plural "{number} organizations found"
-msgstr[0] "{number} бүлэг олдлоо"
-msgstr[1] "{number} бүлэг олдлоо"
-
-msgid "No organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд бүлэг олдсонгүй"
-
-msgid "No organizations found"
-msgstr "Ямарч бүлэг олдсонгүй"
-
-msgid "organization"
-msgstr "Бүлэг"
-
-msgid "Organization does not exist"
-msgstr "Ийм бүлэг байхгүй"
-
-msgid "organizations"
-msgstr "Бүлэг"
-
-msgid "This organization has no datasets associated to it"
-msgstr "Тус бүлэг хамааралтай өгөгдлийн бүрдэл алга байна"
-
-msgid "Search organizations..."
-msgstr "Бүлэг хайх..."
-
-msgid "There are currently no organizations for this site"
-msgstr "Одоогоор тус сайтад ямар ч бүлэг байхгүй байна."
-
-msgid "What are Organizations?"
-msgstr "Бүлэг гэж юу вэ?"
-
-msgid "My Organization"
-msgstr "Миний бүлэг"
 
 msgid "Knowledge portal"
 msgstr "Мэдлэгийн Портал"
@@ -109,71 +62,56 @@ msgstr "Монгол Улс, Улаанбаатар, Чагдаржавын гу
 
 
 
-msgid "What are Organizations?"
-msgstr "Бүлэг гэж юу вэ?"
-
-
-msgid "Group"
-msgstr "Бүрэлдэхүүн хэсэг"
-
-msgid "No groups"
-msgstr "Бүрэлдэхүүн хэсэг байхгүй"
-
-msgid "Group not found"
-msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
-
-msgid "Groups"
+msgid "Organizations"
 msgstr "Бүрэлдэхүүн хэсгүүд"
 
-msgid "Recent changes to CKAN Group:"
-msgstr "CKAN бүрэлдэхүүн хэсэгт шинээр нэмэгдсэн өөрчлөлтүүд:"
-
-msgid "group"
-msgstr "Бүрэлдэхүүн хэсэг"
-
-msgid "Group was not found."
+msgid "Organization not found"
 msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
 
-msgid "Add a Group"
-msgstr "Бүрэлдэхүүн хэсэг нэмэх"
+msgid "Organization was not found."
+msgstr "Бүрэлдэхүүн хэсэг олдсонгүй."
 
-msgid "Add Group"
-msgstr "Бүрэлдэхүүн хэсэг нэмэх"
-
-msgid "Search groups..."
-msgstr "Бүрэлдэхүүн хэсгүүд хайх..."
-
-msgid "There are currently no groups for this site"
-msgstr "Энэ сайтад одоогоор ямарч бүрэлдэхүүн хэсэг байхгүй байна"
-
-msgid "Datasets in group: {group}"
-msgstr "{group}-н өгөгдлийн бүрэлдэхүүн хэсэг"
-
-msgid "My Group"
-msgstr "Миний бүрэлдэхүүн хэсэг"
-
-msgid "Datasets in organization: {group}"
-msgstr " {group} сэдвийн өгөгдлийн бүрдлүүд"
-
-msgid "No groups found for \"{query}\""
-msgstr "\"{query}\" холбогдолтой бүрэлдэхүүн хэсэг олдсонгүй"
-
-msgid "No groups found"
-msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
-
-
-msgid "{number} group found for \"{query}\""
-msgid_plural "{number} groups found for \"{query}\""
+msgid "{number} organization found for \"{query}\""
+msgid_plural "{number} organizations found for \"{query}\""
 msgstr[0] "\"{query}\"-д {number} бүрэлдэхүүн хэсэг олдлоо"
 msgstr[1] "\"{query}\"-д {number} бүрэлдэхүүн хэсэг олдлоо"
 
-msgid "{number} group found"
-msgid_plural "{number} groups found"
+msgid "{number} organization found"
+msgid_plural "{number} organizations found"
 msgstr[0] "{number} бүрэлдэхүүн хэсэг олдлоо"
 msgstr[1] "{number} бүрэлдэхүүн хэсэг олдлоо"
 
-msgid "What are Groups?"
+msgid "No organizations found for \"{query}\""
+msgstr "\"{query}\" -н үр дүнд бүрэлдэхүүн хэсэг олдсонгүй"
+
+msgid "No organizations found"
+msgstr "Ямарч бүрэлдэхүүн хэсэг олдсонгүй"
+
+msgid "organization"
+msgstr "Бүрэлдэхүүн хэсэг"
+
+msgid "Organization does not exist"
+msgstr "Ийм бүрэлдэхүүн хэсэг байхгүй"
+
+msgid "organizations"
+msgstr "Бүрэлдэхүүн хэсэг"
+
+msgid "This organization has no datasets associated to it"
+msgstr "Тус бүрэлдэхүүн хэсэг хамааралтай өгөгдлийн бүрдэл алга байна"
+
+msgid "Search organizations..."
+msgstr "Бүрэлдэхүүн хэсэг хайх..."
+
+msgid "There are currently no organizations for this site"
+msgstr "Одоогоор тус сайтад ямар ч бүрэлдэхүүн хэсэг байхгүй байна."
+
+msgid "What are Organizations?"
 msgstr "Бүрэлдэхүүн хэсэг гэж юу вэ?"
 
-msgid "This group has no description"
-msgstr "Энэ бүрэлдэхүүн хэсэг тодорхойлолтгүй байна"
+msgid "My Organization"
+msgstr "Миний бүрэлдэхүүн хэсэг"
+
+
+msgid "What are Organizations?"
+msgstr "Бүрэлдэхүүн хэсэг гэж юу вэ?"
+

@@ -21,126 +21,64 @@ msgstr ""
 
 
 msgid "Organization"
-msgstr "Group"
+msgstr "Component"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "Groups"
+msgstr "Components"
 
 msgid "Organization not found"
-msgstr "Group not found"
+msgstr "Component not found"
 
 msgid "Organization was not found."
-msgstr "Group was not found."
+msgstr "Component was not found."
 
 msgid "{number} organization found for \"{query}\""
 msgid_plural "{number} organizations found for \"{query}\""
-msgstr[0] "{number} group found for \"{query}\""
-msgstr[1] "{number} groups found for \"{query}\""
-
-msgid "{number} organization found"
-msgid_plural "{number} organizations found"
-msgstr[0] "{number} group found"
-msgstr[1] "{number} groups found"
-
-msgid "No organizations found for \"{query}\""
-msgstr "No groups found for \"{query}\""
-
-msgid "No organizations found"
-msgstr "No groups found"
-
-msgid "organization"
-msgstr "Group"
-
-msgid "Organization does not exist"
-msgstr "Group does not exist"
-
-msgid "organizations"
-msgstr "Groups"
-
-msgid "This organization has no datasets associated to it"
-msgstr "This group has no datasets associated to it"
-
-msgid "Search organizations..."
-msgstr "Search groups..."
-
-msgid "There are currently no organizations for this site"
-msgstr "There are currently no groups for this site."
-
-msgid "What are Organizations?"
-msgstr "What are groups?"
-
-msgid "My Organization"
-msgstr "My group"
-
-msgid "Add Organization"
-msgstr "Add group"
-
-
-
-
-
-msgid "This group has no description"
-msgstr "This component has no description"
-
-msgid "Group"
-msgstr "Component"
-
-msgid "No groups"
-msgstr "No components"
-
-msgid "Group not found"
-msgstr "Component not found"
-
-msgid "Groups"
-msgstr "Components"
-
-msgid "Recent changes to CKAN Group:"
-msgstr "Recent changes to CKAN component:"
-
-msgid "Group"
-msgstr "Component"
-
-msgid "Group was not found."
-msgstr "Component was not found."
-
-msgid "Add a Group"
-msgstr "Add a component"
-
-msgid "Add Group"
-msgstr "Add component"
-
-msgid "Search groups..."
-msgstr "Search components..."
-
-msgid "There are currently no groups for this site"
-msgstr "There are currently no components for this site"
-
-msgid "Datasets in group: {group}"
-msgstr "Datasets in component: {group}"
-
-msgid "My Group"
-msgstr "My component"
-
-
-msgid "No groups found for \"{query}\""
-msgstr "No components found for \"{query}\""
-
-msgid "No groups found"
-msgstr "No components found"
-
-
-msgid "{number} group found for \"{query}\""
-msgid_plural "{number} components found for \"{query}\""
 msgstr[0] "{number} component found for \"{query}\""
 msgstr[1] "{number} components found for \"{query}\""
 
-msgid "{number} group found"
-msgid_plural "{number} groups found"
+msgid "{number} organization found"
+msgid_plural "{number} organizations found"
 msgstr[0] "{number} component found"
 msgstr[1] "{number} components found"
 
+msgid "No organizations found for \"{query}\""
+msgstr "No components found for \"{query}\""
 
-msgid "What are Groups?"
+msgid "No organizations found"
+msgstr "No components found"
+
+msgid "organization"
+msgstr "Component"
+
+msgid "Organization does not exist"
+msgstr "Component does not exist"
+
+msgid "organizations"
+msgstr "Components"
+
+msgid "This organization has no datasets associated to it"
+msgstr "This component has no datasets associated to it"
+
+msgid "Search organizations..."
+msgstr "Search components..."
+
+msgid "There are currently no organizations for this site"
+msgstr "There are currently no components for this site."
+
+msgid "What are Organizations?"
 msgstr "What are components?"
+
+msgid "My Organization"
+msgstr "My component"
+
+msgid "Add Organization"
+msgstr "Add component"
+
+
+
+
+
+
 
