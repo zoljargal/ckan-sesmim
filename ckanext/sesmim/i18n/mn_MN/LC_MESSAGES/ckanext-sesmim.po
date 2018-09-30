@@ -115,3 +115,5 @@ msgstr "Миний бүрэлдэхүүн хэсэг"
 msgid "What are Organizations?"
 msgstr "Бүрэлдэхүүн хэсэг гэж юу вэ?"
 
+msgid "eg. January 2011 Gold Prices"
+msgstr "Ж-нь: 2011 оны 01 сарын алтны үнэ"
