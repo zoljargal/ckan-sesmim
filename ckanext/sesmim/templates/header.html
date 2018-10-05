@@ -2,14 +2,15 @@
 
 
 {% block header_account_logged %}
-    <li><a href="/">MN</a></li>
-    <li><a href="/en">EN</a></li>
+<li> <a href="{% url_for h.current_url(), locale='mn_MN' %}">MN</a></li>
+<li> <a href="{% url_for h.current_url(), locale='en' %}">EN</a></li>
     {{ super() }}
 {% endblock %}
 
 {% block header_account_notlogged %}
-    <li><a href="/">MN</a></li>
-    <li><a href="/en">EN</a></li>
+<li> <a href="{% url_for h.current_url(), locale='mn_MN' %}">MN</a></li>
+<li> <a href="{% url_for h.current_url(), locale='en' %}">EN</a></li>
+
     {{ super() }}
 {% endblock %}
 
